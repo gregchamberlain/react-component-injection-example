@@ -4,6 +4,11 @@ pnpm install
 pnpm run dev
 ```
 
+# Example
+Default Components
+<img width="2110" height="966" alt="image" src="https://github.com/user-attachments/assets/aa1d24a4-a8d1-4a98-9a9b-6273791cf1cb" />
+Injected Components
+<img width="2198" height="958" alt="image" src="https://github.com/user-attachments/assets/cc7e5dc3-ee9e-4c1f-999f-cb12e350dc17" />
 
 
 # Component Injection
